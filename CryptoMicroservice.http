@@ -1,0 +1,6 @@
+@CryptoMicroservice_HostAddress = http://localhost:5220
+
+GET {{CryptoMicroservice_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
